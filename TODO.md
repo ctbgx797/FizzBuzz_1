@@ -9,9 +9,9 @@ TODO
     = [X] 3 -> "Fizz"
     = [X] 6 => "Fizz"
 
-= [ ] 5の倍数なら"Buzz"
-    = [ ] 5 -> "Buzz"
-    = [ ] 10 -> "Buzz"
+= [X] 5の倍数なら"Buzz"
+    = [X] 5 -> "Buzz"
+    = [X] 10 -> "Buzz"
 
 = [ ] 15の倍数なら"FizzBuzz"
     = [ ] 15 -> "FiuzBuzz"
