@@ -2,11 +2,10 @@
 number = int(input("1つの自然数を入れてね: "))
 
 if number % 15 == 0:
-    output = "FizzBuzz"
+    print("FizzBuzz")
 elif number % 3 == 0:
-    output = "Fizz"
+    print("Fizz")
 elif number % 5 == 0:
-    output = "Buzz"
+    print("Buzz")
 else:
-    output = str(number)
-print(output)
+    print(str(number))
