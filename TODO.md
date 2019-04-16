@@ -13,6 +13,6 @@ TODO
     = [X] 5 -> "Buzz"
     = [X] 10 -> "Buzz"
 
-= [ ] 15の倍数なら"FizzBuzz"
-    = [ ] 15 -> "FiuzBuzz"
-    = [ ] 30 -> "FizzBuzz"
+= [X] 15の倍数なら"FizzBuzz"
+    = [X] 15 -> "FiuzBuzz"
+    = [X] 30 -> "FizzBuzz"
